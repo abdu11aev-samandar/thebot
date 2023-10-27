@@ -45,4 +45,4 @@ transliterate==1.10.2
 tzdata==2023.2
 tzlocal==4.3
 urllib3==1.26.15
-Werkzeug==2.2.3
+Werkzeug==3.0.1
