@@ -40,9 +40,9 @@ sniffio==1.3.0
 SQLAlchemy==1.2.13
 telebot==0.0.5
 telegram==0.0.1
-tornado==6.2
+tornado==6.3.3
 transliterate==1.10.2
 tzdata==2023.2
 tzlocal==4.3
 urllib3==1.26.15
-Werkzeug==2.2.3
+Werkzeug==3.0.1
